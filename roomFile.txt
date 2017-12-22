@@ -1,0 +1,55 @@
+1
+Room with Statues
+/////
+this is where i woke up........ i don't... i don't... remember anything.
+Looking around this cold room, the only thing i can see is that light coming
+from the from that door with the window.looking around this room the only thing
+i can see are those 4 statues
+it seems they are looking at me.
+Around me i can see 4 doors, i clearly see thst one of those doors have a small window.
+*****
+=*=*=
+EAST 2/REDKEY
+WEST 3/NORMAL_KEY
+NORTH 4
+SOUTH 5
+=====
+2
+Kitchen
+/////
+At the first look at this room i can see that is a kitchen, ther is this strange smell in the air.
+I don't know what is this smell but is killing me, can breath anymore, i have to get out here as soon as possible.
+*****
+=*=*=
+FORCED 1 
+=====
+3
+DiningRoom
+/////
+looking around the room i can see a table , on the walls there are some paintings,
+it seems that those paitings are looking at me nothing unusual,
+i only see a shiny item on the floor, i think is a crowbar.
+*****
+=*=*=
+EAST 1
+=====
+4
+ControlRoom
+/////
+first look at this room everything seem alright,there is nothing useful here, 
+even if under a desk i can see an old safe hidden, i wonder what is inside that safe.
+but i guess it requires a number to opend it.
+Ther are no other exits, the only door in this room is the one iused.
+*****
+=*=*=
+SOUTH 1
+=====
+5
+Room with floor made of Wood
+/////
+in this room there is nothing, is totally empty, the only odd thing about this room
+is the floor, i can see that there some marks all around a squared shape.
+*****
+=*=*=
+NORTH 1
+=====
